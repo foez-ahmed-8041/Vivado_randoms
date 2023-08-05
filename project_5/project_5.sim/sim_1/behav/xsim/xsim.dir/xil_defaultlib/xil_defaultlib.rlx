@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/foeza/Desktop/vivado/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,C:\Users\foeza\Documents\SystemVerilog\include,,,,,
+C:/Users/foeza/Documents/SystemVerilog/rtl/buffers/fifo/fifo.sv,1684997670,systemVerilog,,C:/Users/foeza/Documents/SystemVerilog/tb/buffers/fifo/fifo_tb/fifo_tb.sv,,fifo,,uvm,C:\Users\foeza\Documents\SystemVerilog\include,,,,,
+C:/Users/foeza/Documents/SystemVerilog/tb/buffers/fifo/fifo_tb/fifo_tb.sv,1685073186,systemVerilog,,,,fifo_tb,,uvm,C:\Users\foeza\Documents\SystemVerilog\include,,,,,

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Jul 12 21:49:15 2023
+# Process ID: 10956
+# Current directory: C:/Users/foeza/Desktop/vivado/project_8/project_8.runs/synth_1
+# Command line: vivado.exe -log mux_core.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux_core.tcl
+# Log file: C:/Users/foeza/Desktop/vivado/project_8/project_8.runs/synth_1/mux_core.vds
+# Journal file: C:/Users/foeza/Desktop/vivado/project_8/project_8.runs/synth_1\vivado.jou
+# Running On: Foez_PC, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 16905 MB
+#-----------------------------------------------------------
+source mux_core.tcl -notrace

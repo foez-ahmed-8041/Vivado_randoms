@@ -1,0 +1,3 @@
+11:35:33 INFO  : Launching XSDB server: xsdb.bat -interactive C:\Users\foeza\Desktop\vivado\pwm\pwm.sdk\temp_xsdb_launch_script.tcl
+11:35:35 INFO  : XSDB server has started successfully.
+11:35:37 INFO  : Processing command line option -hwspec C:/Users/foeza/Desktop/vivado/pwm/pwm.sdk/design_1_wrapper.hdf.
