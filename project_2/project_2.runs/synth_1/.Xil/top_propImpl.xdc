@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:C:/Users/foeza/Desktop/vivado/project_2/project_2.srcs/constrs_1/new/zedboard_master.xdc rfile:../../../project_2.srcs/constrs_1/new/zedboard_master.xdc id:1} [current_design]
+set_property SRC_FILE_INFO {cfile:C:/Users/foeza/Documents/Vivado_randoms/project_2/project_2.srcs/constrs_1/new/zedboard_master.xdc rfile:../../../project_2.srcs/constrs_1/new/zedboard_master.xdc id:1} [current_design]
 set_property src_info {type:XDC file:1 line:175 export:INPUT save:INPUT read:READ} [current_design]
 set_property PACKAGE_PIN T22 [get_ports {LD0}];  # "LD0"
 set_property src_info {type:XDC file:1 line:176 export:INPUT save:INPUT read:READ} [current_design]

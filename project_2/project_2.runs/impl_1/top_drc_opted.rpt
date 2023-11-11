@@ -1,13 +1,14 @@
-Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
-------------------------------------------------------------------------------------
-| Tool Version : Vivado v.2016.1 (win64) Build 1538259 Fri Apr  8 15:45:27 MDT 2016
-| Date         : Wed Apr 26 15:30:05 2023
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
+| Date         : Mon Oct 23 12:08:28 2023
 | Host         : Foez_PC running 64-bit major release  (build 9200)
-| Command      : report_drc -file top_drc_opted.rpt
+| Command      : report_drc -file top_drc_opted.rpt -pb top_drc_opted.pb -rpx top_drc_opted.rpx
 | Design       : top
 | Device       : xc7z020clg484-1
 | Speed File   : -1
-------------------------------------------------------------------------------------
+| Design State : Synthesized
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 Report DRC
 
@@ -24,6 +25,12 @@ Table of Contents
            Ruledeck: default
              Max violations: <unlimited>
              Violations found: 2
++---------+----------+---------------------+------------+
+| Rule    | Severity | Description         | Violations |
++---------+----------+---------------------+------------+
+| PLCK-12 | Warning  | Clock Placer Checks | 1          |
+| ZPS7-1  | Warning  | PS7 block required  | 1          |
++---------+----------+---------------------+------------+
 
 2. REPORT DETAILS
 -----------------
